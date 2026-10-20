@@ -1,8 +1,8 @@
 # Financhin
 
-Aplicativo de finanças pessoais para a casa toda, feito para três coisas:
-**saber para onde o dinheiro foi**, **planejar o mês** e **fechar a fatura do
-cartão sem digitar tudo na mão**.
+Aplicativo de finanças pessoais para a casa toda, feito para quatro coisas:
+**saber para onde o dinheiro foi**, **planejar o mês**, **fechar a fatura do
+cartão sem digitar tudo na mão** e **acompanhar o patrimônio crescer**.
 
 > Este repositório é apenas a vitrine do projeto. O código-fonte é privado.
 
@@ -20,6 +20,12 @@ Para cada categoria você vê o que planejou, o que já comprometeu, o que gasto
 quanto ainda tem disponível. Clicou em um valor? Aparecem os lançamentos que o
 formaram.
 
+**Acompanhamento de investimentos e patrimônio.**
+Caixinhas, CDBs, Tesouro, ações, fundos imobiliários e cripto num só lugar. Guardar
+ou investir dinheiro não vira "despesa": o app entende que o dinheiro só mudou de
+lugar. Você acompanha quanto está investido, quanto está em conta e como o
+patrimônio evolui mês a mês, com cotações e rendimento atualizados.
+
 **Contas do casal.**
 Cada lançamento tem dono e as despesas podem ser divididas por percentual. A tela
 de Acerto de Contas mostra quem pagou o que e qual o saldo entre as pessoas da
@@ -29,21 +35,35 @@ casa.
 Fechamento, vencimento, parcelamento, estorno, pagamento de fatura (inclusive
 parcial) e limite comprometido funcionam como no banco.
 
+**Visão de futuro.**
+Metas, aposentadoria e imprevistos num único gráfico, mostrando até quando o
+patrimônio sustenta o plano. Empréstimos e dívidas ficam sob controle, com
+parcelas e simulador.
+
 ---
 
-## Principais recursos
+## Telas do aplicativo
 
-- **Contas, cartões e categorias** com saldo por tipo, barra de limite e avisos de
-  fechamento próximo.
-- **Lançamentos** manuais, importados, parcelados, transferências entre contas,
-  estornos e reembolsos.
-- **Controle mensal e Planejar mês**: planejado × realizado, metas e projeção anual.
-- **Relatórios** na tela inicial: evolução diária, categorias, meios de
-  pagamento, tendências de 12 meses e projeção de saldo.
-- **Investimentos e reservas**: ativos, aportes, resgates e a "História do
-  dinheiro", que mostra de onde veio e para onde foi cada real do mês.
-- **Empréstimos e dívidas**: a receber, a pagar, parcelas e simulador.
-- **Independência Financeira**: aposentadoria e metas em um único gráfico.
+| Área | Para que serve |
+| --- | --- |
+| **Início** | Resumo do mês, relatórios e atalhos do dia a dia |
+| **Receitas e Despesas** | Todos os lançamentos, manuais ou importados |
+| **Faturas de Cartão** | Importação, parcelas, pagamento e limite |
+| **Controle Mensal** | Planejado × comprometido × realizado × disponível |
+| **Planejar o Mês** | Orçamento por categoria, metas e projeção anual |
+| **Reservas & Investimentos** | Caixinhas e investimentos, aportes, resgates, patrimônio e destino do dinheiro |
+| **História do Dinheiro** | De onde veio e para onde foi cada real do mês |
+| **Independência Financeira** | Aposentadoria e metas num gráfico só |
+| **Empréstimos e Dívidas** | Dinheiro a receber, dívidas a pagar e simulador |
+| **Relatórios** | Evolução diária, categorias, meios de pagamento e tendências |
+| **Acerto de Contas** | Quem pagou o que e o saldo entre as pessoas da casa |
+| **Contas & Cartões, Categorias** | Cadastros-base do sistema |
+| **Membros da Casa, Preferências** | Convites, permissões, backups e personalização |
+
+---
+
+## Outros recursos
+
 - **Financhin, o assistente**: lê arquivos, responde dúvidas e propõe ações, sempre
   pedindo confirmação antes de gravar qualquer coisa.
 - **Notificações e vencimentos**: alertas de teto de orçamento, faturas vencendo
@@ -51,7 +71,8 @@ parcial) e limite comprometido funcionam como no banco.
 - **Modo Guiado**: ajuda passo a passo a resolver o que está pendente.
 - **Várias pessoas na mesma casa**, com convites e permissões (só ver ou ver e
   editar).
-- **Backups** e exportação dos seus dados.
+- **Menus e barra mobile personalizáveis**, com vários estilos visuais.
+- **Backups e exportação** dos seus dados.
 
 ---
 
