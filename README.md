@@ -68,10 +68,6 @@ parcial) e limite comprometido funcionam como no banco.
 
 Em desenvolvimento ativo e em uso real.
 
-## Contato
-
-[escreva aqui como quer ser contatado: e-mail, LinkedIn etc.]
-
 ---
 
 © Todos os direitos reservados. Este material não concede licença de uso, cópia ou
